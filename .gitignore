@@ -34,3 +34,7 @@ GITHUB_ISSUE_RESPONSES.md
 
 # Archive folder (historical/backup files)
 archive/
+
+# Campaign analytics export outputs (contain API data; do not publish)
+marketing-skill/campaign-analytics/results/
+marketing-skill/campaign-analytics/*_stats.csv
